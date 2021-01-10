@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="FB58FFBA-EEF6-44E6-904F-43F08F74B39F" version="0">
+<presentation availableOffline="1" guid="B504F707-0A04-4EF6-BC81-9786A5870C27" version="0">
 	<info>
-		<title>2021-01-09 Malola Education Online Exam-43</title>
+		<title>2021-01-10 Malola Education Online Exam 44</title>
 		<description/>
 	</info>
-	<files index="id21" thumbnail="id17" totalSize="3488099">
+	<files index="id21" thumbnail="id17" totalSize="3851164">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -17,9 +17,9 @@
 		<file id="id9">data/fonts/fnt6.woff</file>
 		<file id="id10">data/html5-unsupported.html</file>
 		<file id="id11">data/html5.png</file>
-		<file id="id12">data/images/img-79f8e998676a1ac7fb0e217476c9095b6487dcf0.PNG</file>
-		<file id="id13">data/images/img-8f74740ad5650d7ff83382dee1b15b62369e4eae.PNG</file>
-		<file id="id14">data/images/img-cf4a4aa1117ecf5ee38ceae6fa6ce42e3db9b583.PNG</file>
+		<file id="id12">data/images/img-34b7e760af63ce4dd0afa4ee392b05da65c2cf1d.PNG</file>
+		<file id="id13">data/images/img-50ebc9e9799ebe4b29d11c79a70709e64499de1f.PNG</file>
+		<file id="id14">data/images/img-616f5662c765f404446f913e37212ed804551a1b.PNG</file>
 		<file id="id15">data/ismplayer/app_store2x.png</file>
 		<file id="id16">data/ismplayer/play.svg</file>
 		<file id="id17">data/ismplayer/preview.png</file>
