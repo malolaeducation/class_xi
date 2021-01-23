@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="DEF02E07-E98C-4DEB-ADF6-FFB2A3EB8C6A" version="0">
+<presentation availableOffline="1" guid="A0E443D4-C069-4F20-B50A-6DA21EC30134" version="0">
 	<info>
-		<title>2021-01-23 Malola Education Online Exam-45</title>
+		<title>2021-01-24 Malola Education Online Exam-46</title>
 		<description/>
 	</info>
-	<files index="id17" thumbnail="id13" totalSize="4044588">
+	<files index="id25" thumbnail="id21" totalSize="4090259">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -13,18 +13,26 @@
 		<file id="id5">data/fonts/fnt2.woff</file>
 		<file id="id6">data/fonts/fnt3.woff</file>
 		<file id="id7">data/fonts/fnt4.woff</file>
-		<file id="id8">data/html5-unsupported.html</file>
-		<file id="id9">data/html5.png</file>
-		<file id="id10">data/images/img-9fd5e1c232099569ace05e35015d3e16e99c75f5.PNG</file>
-		<file id="id11">data/ismplayer/app_store2x.png</file>
-		<file id="id12">data/ismplayer/play.svg</file>
-		<file id="id13">data/ismplayer/preview.png</file>
-		<file id="id14">data/ismplayer/style.css</file>
-		<file id="id15">data/ismplayer/style_mini.css</file>
-		<file id="id16">data/player.js</file>
-		<file id="id17">index.html</file>
-		<file id="id18">ismplayer.html</file>
-		<file id="id19">preview.png</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/html5.png</file>
+		<file id="id12">data/images/img-203406370574137933e42207c61bda25917d965c.PNG</file>
+		<file id="id13">data/images/img-4ec1bfb4b365397f37c95765aae869ac8caa193f.PNG</file>
+		<file id="id14">data/images/img-513b559269f9d1dd86da4f23fad5d72189bf771d.PNG</file>
+		<file id="id15">data/images/img-78d10f8381e1715cde7253cd8942a1e271e48ce5.PNG</file>
+		<file id="id16">data/images/img-81db2d36347de8f70972a9a6dc627aea5a0599a7.PNG</file>
+		<file id="id17">data/images/img-889f3ac3d174a74e131addaa243efd4a14521556.PNG</file>
+		<file id="id18">data/images/img-c672516f62ed8d68a43e3a6739dfc5755fc8bf48.PNG</file>
+		<file id="id19">data/ismplayer/app_store2x.png</file>
+		<file id="id20">data/ismplayer/play.svg</file>
+		<file id="id21">data/ismplayer/preview.png</file>
+		<file id="id22">data/ismplayer/style.css</file>
+		<file id="id23">data/ismplayer/style_mini.css</file>
+		<file id="id24">data/player.js</file>
+		<file id="id25">index.html</file>
+		<file id="id26">ismplayer.html</file>
+		<file id="id27">preview.png</file>
 	</files>
 </presentation>
 
