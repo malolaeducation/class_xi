@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="B504F707-0A04-4EF6-BC81-9786A5870C27" version="0">
+<presentation availableOffline="1" guid="DEF02E07-E98C-4DEB-ADF6-FFB2A3EB8C6A" version="0">
 	<info>
-		<title>2021-01-10 Malola Education Online Exam 44</title>
+		<title>2021-01-23 Malola Education Online Exam-45</title>
 		<description/>
 	</info>
-	<files index="id21" thumbnail="id17" totalSize="3851164">
+	<files index="id17" thumbnail="id13" totalSize="4044588">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -13,22 +13,18 @@
 		<file id="id5">data/fonts/fnt2.woff</file>
 		<file id="id6">data/fonts/fnt3.woff</file>
 		<file id="id7">data/fonts/fnt4.woff</file>
-		<file id="id8">data/fonts/fnt5.woff</file>
-		<file id="id9">data/fonts/fnt6.woff</file>
-		<file id="id10">data/html5-unsupported.html</file>
-		<file id="id11">data/html5.png</file>
-		<file id="id12">data/images/img-34b7e760af63ce4dd0afa4ee392b05da65c2cf1d.PNG</file>
-		<file id="id13">data/images/img-50ebc9e9799ebe4b29d11c79a70709e64499de1f.PNG</file>
-		<file id="id14">data/images/img-616f5662c765f404446f913e37212ed804551a1b.PNG</file>
-		<file id="id15">data/ismplayer/app_store2x.png</file>
-		<file id="id16">data/ismplayer/play.svg</file>
-		<file id="id17">data/ismplayer/preview.png</file>
-		<file id="id18">data/ismplayer/style.css</file>
-		<file id="id19">data/ismplayer/style_mini.css</file>
-		<file id="id20">data/player.js</file>
-		<file id="id21">index.html</file>
-		<file id="id22">ismplayer.html</file>
-		<file id="id23">preview.png</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-9fd5e1c232099569ace05e35015d3e16e99c75f5.PNG</file>
+		<file id="id11">data/ismplayer/app_store2x.png</file>
+		<file id="id12">data/ismplayer/play.svg</file>
+		<file id="id13">data/ismplayer/preview.png</file>
+		<file id="id14">data/ismplayer/style.css</file>
+		<file id="id15">data/ismplayer/style_mini.css</file>
+		<file id="id16">data/player.js</file>
+		<file id="id17">index.html</file>
+		<file id="id18">ismplayer.html</file>
+		<file id="id19">preview.png</file>
 	</files>
 </presentation>
 
